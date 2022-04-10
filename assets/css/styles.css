@@ -31,7 +31,7 @@ body {
     right: 0px;
     top: 0px;
     bottom: 0px;
-    color: whitek;
+    color: white;
     font-size: 18px;
     font-weight: bold;
     text-align: center;
@@ -657,7 +657,7 @@ section.active .container {
     width: 35px;
     height: 65px;
     margin: 0 auto 15px;
-    border: 3px solid #FFF;
+    border: 3px solid black;
     border-radius: 22px;
 }
 
@@ -668,7 +668,7 @@ section.active .container {
     left: 50%;
     width: 8px;
     height: 8px;
-    background: #FFF;
+    background: black;
     border-radius: 50%;
     transform: translate(-50%, -25%);
     -webkit-animation: ball-scroll 2s linear infinite;
